@@ -1,0 +1,59 @@
+LOCUS       KU325498                 568 bp    DNA     linear   PRI 05-JUL-2016
+DEFINITION  Homo sapiens CFTR (CFTR) gene, partial cds.
+ACCESSION   KU325498
+VERSION     KU325498.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 568)
+  AUTHORS   Gajbhiye,R., Shah,R. and Gaikwad,A.
+  TITLE     Novel CFTR gene mutation in intron 1 in Indian men having
+            congenital bilateral absence of vas deferens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 568)
+  AUTHORS   Gajbhiye,R., Shah,R. and Gaikwad,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-2015) Department of Reproductive endocrinology
+            and Infertility, National Institute for Research in Reproductive
+            Health, J M Street, Parel, Mumbai, Maharashtra 400012, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..568
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="c.317+2T>G"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="India"
+                     /collection_date="10-Dec-2012"
+     gene            <232..>568
+                     /gene="CFTR"
+     mRNA            <232..>284
+                     /gene="CFTR"
+                     /product="CFTR"
+     CDS             232..>284
+                     /gene="CFTR"
+                     /codon_start=1
+                     /product="CFTR"
+                     /protein_id="ANO46462.1"
+                     /translation="MQRSPLEKASVVSKLFF"
+ORIGIN      
+        1 tcgtcgtcaa tgtggcacat cggcttttac atgggcagca gaaggcgggg gaaagagcaa
+       61 aaggaagggg tggtgtgcgg agtaggggtg ggtgggggga attggaagca aatgacatca
+      121 cagcaggtca gagaaaaagg gttgagcggc aggcacccag agtagtaggt ctttggcatt
+      181 aggagcttga gcccagacgg ccctagcagg gaccccagcg cccgagagac catgcagagg
+      241 tcgcctctgg aaaaggccag cgttgtctcc aaactttttt tcaggggaga aggtggccaa
+      301 ccgagcttcg gaaagacacg tgcccacgaa agaggagggc gtgtgtatgg gttgggtttg
+      361 gggtaaagga ataagcagtt tttaaaaaga tgcgctatca ttcattgttt tgaaagaaaa
+      421 tgtgggtatt gtagaataaa acagaaagca ttaagaagag atggaagaat gaactgaagc
+      481 tgattgaata gagagccact tcctacttgc aatagagagc caccatcctc cttgctccac
+      541 atgtggcccc ttttcacttg tcatcctg
+//
+

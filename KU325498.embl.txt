@@ -1,0 +1,76 @@
+ID   KU325498; SV 1; linear; genomic DNA; STD; HUM; 568 BP.
+XX
+AC   KU325498;
+XX
+DT   08-JUL-2016 (Rel. 129, Created)
+DT   08-JUL-2016 (Rel. 129, Last updated, Version 1)
+XX
+DE   Homo sapiens CFTR (CFTR) gene, partial cds.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+XX
+RN   [1]
+RP   1-568
+RA   Gajbhiye R., Shah R., Gaikwad A.;
+RT   "Novel CFTR gene mutation in intron 1 in Indian men having congenital
+RT   bilateral absence of vas deferens";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-568
+RA   Gajbhiye R., Shah R., Gaikwad A.;
+RT   ;
+RL   Submitted (22-DEC-2015) to the INSDC.
+RL   Department of Reproductive endocrinology and Infertility, National
+RL   Institute for Research in Reproductive Health, J M Street, Parel, Mumbai,
+RL   Maharashtra 400012, India
+XX
+DR   MD5; 72a7311ffd4054369a7063bd3e45861a.
+XX
+CC   ##Assembly-Data-START##
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..568
+FT                   /organism="Homo sapiens"
+FT                   /chromosome="7"
+FT                   /isolate="c.317+2T>G"
+FT                   /mol_type="genomic DNA"
+FT                   /country="India"
+FT                   /collection_date="10-Dec-2012"
+FT                   /sex="male"
+FT                   /tissue_type="blood"
+FT                   /db_xref="taxon:9606"
+FT   gene            <232..>568
+FT                   /gene="CFTR"
+FT   mRNA            <232..>284
+FT                   /gene="CFTR"
+FT                   /product="CFTR"
+FT   CDS             232..>284
+FT                   /codon_start=1
+FT                   /gene="CFTR"
+FT                   /product="CFTR"
+FT                   /db_xref="GOA:Q9UML8"
+FT                   /db_xref="UniProtKB/TrEMBL:Q9UML8"
+FT                   /protein_id="ANO46462.1"
+FT                   /translation="MQRSPLEKASVVSKLFF"
+XX
+SQ   Sequence 568 BP; 161 A; 109 C; 179 G; 119 T; 0 other;
+     tcgtcgtcaa tgtggcacat cggcttttac atgggcagca gaaggcgggg gaaagagcaa        60
+     aaggaagggg tggtgtgcgg agtaggggtg ggtgggggga attggaagca aatgacatca       120
+     cagcaggtca gagaaaaagg gttgagcggc aggcacccag agtagtaggt ctttggcatt       180
+     aggagcttga gcccagacgg ccctagcagg gaccccagcg cccgagagac catgcagagg       240
+     tcgcctctgg aaaaggccag cgttgtctcc aaactttttt tcaggggaga aggtggccaa       300
+     ccgagcttcg gaaagacacg tgcccacgaa agaggagggc gtgtgtatgg gttgggtttg       360
+     gggtaaagga ataagcagtt tttaaaaaga tgcgctatca ttcattgttt tgaaagaaaa       420
+     tgtgggtatt gtagaataaa acagaaagca ttaagaagag atggaagaat gaactgaagc       480
+     tgattgaata gagagccact tcctacttgc aatagagagc caccatcctc cttgctccac       540
+     atgtggcccc ttttcacttg tcatcctg                                          568
+//
